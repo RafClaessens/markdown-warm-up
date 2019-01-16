@@ -27,3 +27,14 @@ we gaan eens checken hoe we [deze website](http://www.gatesnfences.com/) kunnen 
 * zorgen dat de code/functies werken!
 
 <hr/>
+
+## we moesten wat aanpassen, dus dit is een aanpassing
+
+### onze gatse n fences groep
+* Raf   
+* Andy
+* Geert
+* Mireille
+* Steve
+
+<hr/>
